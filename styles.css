@@ -12,3 +12,8 @@ width: 80%
 img {
 width: 33%;
 }
+h1 {
+  color: pink;
+text-align: center;
+font-family: "Lucida Console", Courier, monospace;
+}
